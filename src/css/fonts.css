@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('../fonts/openSans/opensans-light-webfont.eot');
+    src: url('../fonts/openSans/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/openSans/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/openSans/opensans-light-webfont.woff') format('woff'),
+         url('../fonts/openSans/opensans-light-webfont.ttf') format('truetype'),
+         url('../fonts/openSans/opensans-light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/openSans/opensans-regular-webfont.eot');
+    src: url('../fonts/openSans/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/openSans/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/openSans/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/openSans/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/openSans/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'dosisregular';
+    src: url('../fonts/dosis/dosis-regular-webfont.eot');
+    src: url('../fonts/dosis/dosis-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dosis/dosis-regular-webfont.woff2') format('woff2'),
+         url('../fonts/dosis/dosis-regular-webfont.woff') format('woff'),
+         url('../fonts/dosis/dosis-regular-webfont.ttf') format('truetype'),
+         url('../fonts/dosis/dosis-regular-webfont.svg#dosisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('../fonts/glyphicons-halflings-regular.eot');
+    src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
